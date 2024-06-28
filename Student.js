@@ -8,8 +8,8 @@ function studentGrade(){
     //prompt the user to input a score
     let score = prompt("Please enter the student's score")
 
-    //converts whatever the input is to an integer
-    score = parseInt(score)
+    //converts whatever theinput is to an integer
+    score = parseInt(score, 10)
 
     //score must be within the 0-100 range 
     if (score >= 0 && score <= 100) {
@@ -38,9 +38,3 @@ function studentGrade(){
 }
 //callfunction
 studentGrade();
-
-
-
-
-
-
