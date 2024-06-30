@@ -7,18 +7,17 @@ This JavaScript program calculates an individual's net salary based on their bas
 
 ## Files
 
-- **index.html**: HTML file for user interface.
-- **netSalary.js**: JavaScript file containing the net salary calculation logic.
+- **NetSalary.html**: HTML file for user interface, containing the script with the net salary calculation logic.
 - **README.md**: This file, providing an overview of the project.
 - **.gitignore**: Git ignore file to exclude unnecessary files from version control.
 
 ## Installation
 
-No installation required. Just open `index.html` in a web browser to use the calculator.
+No installation required. Just open `NetSalary.html` in a web browser to use the calculator.
 
 ## Usage
 
-1. Open `index.html` in a web browser.
+1. Open `NetSalary.html` in a web browser.
 2. Enter the basic monthly salary and benefits when prompted.
 3. View the calculated PAYE, NHIF Deductions, NSSF Deductions, gross salary, and net salary in the console.
 
@@ -54,7 +53,15 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 
 # 2
-# spped-Demerit Points Calculator 
+# speed-Demerit Points Calculator 
+
+## Files
+
+- **Speed.html**: HTML file for user interface, containing the script with the net salary calculation logic.
+- **README.md**: This file, providing an overview of the project.
+- **.gitignore**: Git ignore file to exclude unnecessary files from version control.
+
+
 
 This JavaScript function calculates demerit points based on the speed of a car relative to the speed limit.
 
@@ -93,6 +100,13 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 # 3
 # Student Grade Calculator
+
+## Files
+
+- **StudentGrade.html**: HTML file for user interface, containing the script with the net salary calculation logic.
+- **README.md**: This file, providing an overview of the project.
+- **.gitignore**: Git ignore file to exclude unnecessary files from version control.
+
 
 This JavaScript function evaluates a student's score and assigns a grade based on the score's value. The function prompts the user to input a score and then determines the corresponding grade according to predefined ranges.
 
