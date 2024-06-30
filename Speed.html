@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        /*Challenge 2: Speed Detector (Toy Problem)
+
+        Write a program that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+        For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+        */
+
+
+    function calculateDemeritPoints(){
+    //prompt the user to input speed
+        let speed = prompt("Enter the speed of the car")
+            // work with integers only
+            speed = parseInt(speed, 10)
+
+        const speedLimit=70;
+        let demeritPoints=0;
+    
+    //conditions
+    if(speed < speedLimit){
+        console.log("OK")
+    }else{
+        //calculate the demerit points
+        demeritPoints=Math.floor((speed-speedLimit)/5) //can also use parseInt
+        console.log( `Points: ${demeritPoints}`)
+        //nested if
+        if(demeritPoints > 12){
+            console.log("License suspended")
+        }
+    }
+
+
+
+    }
+
+    //call the function once the page loads
+    window.onload = function(){
+        calculateDemeritPoints()   
+    };
+    
+
+    </script>
+</body>
+</html>
