@@ -8,7 +8,7 @@ This JavaScript program calculates an individual's net salary based on their bas
 ## Files
 
 - **index.html**: HTML file for user interface.
-- **netsalary.js**: JavaScript file containing the net salary calculation logic.
+- **netSalary.js**: JavaScript file containing the net salary calculation logic.
 - **README.md**: This file, providing an overview of the project.
 - **.gitignore**: Git ignore file to exclude unnecessary files from version control.
 
