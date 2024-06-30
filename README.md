@@ -1,6 +1,6 @@
 # CodeChallenge1
 
-#1
+# 1
 # Net Salary Calculator
 
 This JavaScript program calculates an individual's net salary based on their basic monthly salary and benefits. It computes PAYE (Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary using the current KRA, NHIF, and NSSF rates.
