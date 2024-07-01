@@ -44,7 +44,25 @@ This project follows specific guidelines:
 
 ## Credits
 
-- Data sources: https://www.aren.co.ke/payroll/taxrates.htm  [KRA](https://www.kra.go.ke), https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
+- Data sources: https://www.aren.co.ke/payroll/taxrates.htm  
+ [KRA](https://www.kra.go.ke), 
+ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
+
+### Author
+
+#### Irene Mwikali Musau
+
+Software engineer: Web Developer passionate about creating useful applications.
+
+#### Contact Information
+
+- **Email:** https://mail.google.com/mail/?tab=rm&authuser=0&ogbl
+- **GitHub:** https://github.com/ire-design
+
+
+#### Contributions
+
+Contributions to the project are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
 
@@ -92,6 +110,22 @@ Example scenario:
 ## Notes
 
 Ensure the input is a valid integer. Non-integer inputs will be treated as `NaN` (Not a Number).
+
+### Author
+
+#### Irene Mwikali Musau
+
+Software engineer: Web Developer passionate about creating useful applications.
+
+#### Contact Information
+
+- **Email:** https://mail.google.com/mail/?tab=rm&authuser=0&ogbl
+- **GitHub:** https://github.com/ire-design
+
+
+#### Contributions
+
+Contributions to the project are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
 
@@ -147,6 +181,23 @@ Example scenarios:
 
 - Ensure the input is a valid integer within the range of 0 to 100.
 - Scores outside this range will result in an error message.
+
+
+### Author
+
+#### Irene Mwikali Musau
+
+Software engineer: Web Developer passionate about creating useful applications.
+
+#### Contact Information
+
+- **Email:** https://mail.google.com/mail/?tab=rm&authuser=0&ogbl
+- **GitHub:** https://github.com/ire-design
+
+
+#### Contributions
+
+Contributions to the project are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
 
