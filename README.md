@@ -119,7 +119,7 @@ Software engineer: Web Developer passionate about creating useful applications.
 
 #### Contact Information
 
-- **Email:** https://mail.google.com/mail/?tab=rm&authuser=0&ogbl
+- **Email:** irenemwikalii04@gmail.com
 - **GitHub:** https://github.com/ire-design
 
 
